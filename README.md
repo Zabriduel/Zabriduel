@@ -1,7 +1,7 @@
-## Hi there 👋
+## Olá, sou o Zabriduel👋
 <div align="center">
 
- <img src= "![tomioka](https://github.com/user-attachments/assets/2a0f1829-2cd4-4e60-95ba-bde2cefef25e)" width="220" height="190" >
+ <img src= "https://github.com/user-attachments/assets/2a0f1829-2cd4-4e60-95ba-bde2cefef25e" width="220" height="190" >
 
 </div>
 <!--
