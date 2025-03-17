@@ -1,5 +1,9 @@
 ## Hi there 👋
+<div align="center">
 
+ <img src= "![tomioka](https://github.com/user-attachments/assets/2a0f1829-2cd4-4e60-95ba-bde2cefef25e)" width="220" height="190" >
+
+</div>
 <!--
 **Zabriduel/Zabriduel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
