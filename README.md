@@ -16,6 +16,6 @@
 ## <div align="center"> 📊 Estatística </div>
 <div>
  <a href="https://github.com/Zabriduel">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=zabriduel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zabriduel&layout=compact&langs_count=16&tokyonight"/>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zabriduel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zabriduel&layout=compact&langs_count=16&tokyonight"/>  
 </div>
