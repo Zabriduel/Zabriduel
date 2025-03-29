@@ -14,8 +14,10 @@
 <br>
 
 ## <div align="center"> 📊 Estatística </div>
-<div>
+<div align="center">
  <a href="https://github.com/Zabriduel">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zabriduel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zabriduel&layout=compact&langs_count=16&tokyonight"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=zabriduel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zabriduel&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150">
 </div>
+
+
