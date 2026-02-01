@@ -1,5 +1,5 @@
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+sou+o+Zabriduel+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
-Tenho 19 anos e atualmente estou realizando faculdade de ADS. Sou formado em técnico de desenvolvimento de sitemas e busco aprofundar meus conhecimentos todos os dias.
+Tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas. Sou formado em técnico de desenvolvimento de sitemas e busco aprofundar meus conhecimentos todos os dias.
 
 <div align="center">
 <br>
