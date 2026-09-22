@@ -1,5 +1,5 @@
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+sou+o+Zabriduel+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
-Sou o 'Zabriduel' sou Desenvolvedor Power Platform com foco em automação de processos. Meu trabalho é transformar rotinas manuais em fluxos confiáveis, atuando na ponte entre a área de negócio e a solução técnica.
+Sou o 'Zabriduel' e sou Desenvolvedor Power Platform com foco em automação de processos. Meu trabalho é transformar rotinas manuais em fluxos confiáveis, atuando na ponte entre a área de negócio e a solução técnica.
 
 ​Sou Técnico em Desenvolvimento de Sistemas, graduado em Análise e Desenvolvimento de Sistemas e pós-graduando (MBA) em Engenharia de Software pela USP/Esalq. Essa formação me garante uma base forte em Python, JavaScript, TypeScript e SQL para atuar com segurança sempre que o projeto exige uma lógica mais complexa e o low-code chega ao limite.
 
